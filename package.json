@@ -13,7 +13,11 @@
     "@cloudflare/vitest-pool-workers": "^0.5.2",
     "@cloudflare/workers-types": "^4.20240919.0",
     "typescript": "^5.5.2",
-    "vitest": "2.0.5",
-    "wrangler": "^3.60.3"
+    "vitest": "2.0.5"
+  },
+  "dependencies": {
+    "hono": "^4.6.2",
+    "openai": "^4.63.0",
+    "wrangler": "^3.78.7"
   }
 }
